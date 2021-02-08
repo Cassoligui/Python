@@ -1,3 +1,0 @@
-Activities from Phyton course on Udemy.
-
-Course link: https://www.udemy.com/course/intro_python/
